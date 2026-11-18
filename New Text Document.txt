@@ -1,0 +1,6 @@
+git config user.name "Medhabiyan"
+git config user.email "medhabiyan@gmail.com"
+git remote set-url origin https://medhabiyan@github.com/medhabiyan/acfridgetools.git
+
+
+https://github.com/medhabiyan/acfridgetools.git
