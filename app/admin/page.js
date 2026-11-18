@@ -188,7 +188,7 @@ function AdminDashboardContent() {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    if (password === "acfridge1234##") {
+    if (password === "Imdad@Store#2027!") {
       setIsAuthenticated(true);
       localStorage.setItem("isAdminLoggedIn", "true");
     } else {
